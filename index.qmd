@@ -1,11 +1,24 @@
 ---
-title: "gustavoperezarrobo"
+title: "Gustavo Pérez-Arrobo"
+image: images/GPA.png
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+editor_options: 
+  chunk_output_type: console
 ---
 
-This is a Quarto website.
+Hi! I am a PhD candidate in Political Science at the University of Colorado Boulder. My main research interests are comparative political institutions, political economy, and political methodology with a regional emphasis on Latin America. In particular, I focus on key issues including institutional change, economic volatility, democracy, and mixed-methods.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My research examines how economic distortions affect presidential institutional changes providing pathways to democratic backsliding. Challenging conventional assumptions that bad economic times spearhead institutional reforms, the dissertation argues that positive economic shocks provide the structural context for presidents to initiate, promote, and/or support institutional changes with the aim to weaken or not the democratic system depending on the type of reform. By gathering an original dataset on presidential institutional changes, the project relies on a mixed-method approach to answer these concerns.
+
+My primary teaching interests include comparative political economy, political institutions, research methodology, quantitative and mixed-methods analysis, and Latin American politics.
+
+I also hold a master's degree in Comparative Politics from the Latin American Faculty of Social Sciences (Ecuador) and a bachelor's degree in Economics from the Pontifical Catholic University of Ecuador.
+
+Some of my research has been published in Revista de Ciencia Política and Revista Española de Ciencia Política.
 
 ```{r}
-1 + 1
+
 ```
