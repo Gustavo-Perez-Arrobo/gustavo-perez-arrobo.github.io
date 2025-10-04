@@ -23,7 +23,7 @@ My primary teaching interests include comparative political economy, political i
 
 I also hold a master's degree in Comparative Politics from the Latin American Faculty of Social Sciences (Ecuador) and a bachelor's degree in Economics from the Pontifical Catholic University of Ecuador.
 
-Some of my research has been published in Revista de Ciencia Política and Revista Española de Ciencia Política.
+Some of my research has been published in *Revista de Ciencia Política* and *Revista Española de Ciencia Política*.
 
 ```{r}
 
