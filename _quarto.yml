@@ -3,12 +3,17 @@ project:
   output-dir: docs	
 
 website:
-  title: "gustavo perez arrobo"
+  title: "My site"
+  site-url: https://gustavo-perez-arrobo.github.io
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - CV.qmd
+      - Research.qmd
+      - Teaching.qmd
+      - Information.qmd
+  
 
 format:
   html:
