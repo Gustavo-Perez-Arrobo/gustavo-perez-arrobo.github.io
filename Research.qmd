@@ -15,7 +15,7 @@ format: html
 
 **Working Papers:**
 
--   Why Do Some Governments Lose? Institutional Capacity in Oil Spill Lawsuits. (*submitted for review*) [Paper](https://github.com/Gustavo-Perez-Arrobo/gustavo-perez-arrobo.github.io/blob/main/files/Oil%20Spills%20and%20Lawsuits.pdf?raw=true)
+-   Why Do Some Governments Lose? Institutional Capacity in Oil Spill Lawsuits. [Paper](https://github.com/Gustavo-Perez-Arrobo/gustavo-perez-arrobo.github.io/blob/main/files/Oil%20Spills%20and%20Lawsuits.pdf?raw=true)
 
 <!-- -->
 
@@ -25,7 +25,7 @@ format: html
 
 -   Compatible or at Odds? Protesters’ Attitudes Toward the Political System in Latin America (with Carew Boulding and V. Ximena Velasco-Guachalla).
 
--    Mixed-Method application with panel data: the selection of cases.
+-   Mixed-Method application with panel data: the selection of cases.
 
 -   Economic Shocks and Respect for Political Institutions in Latin America: An Explanation from Protester’s Behavior.
 
@@ -35,4 +35,4 @@ format: html
 
 **Articles in Press:**
 
--    “¿Promesas rotas? Cooperación, estrategia y dilemas de la derecha”. 2022. El Desconcierto (with Gastón Alvear) ([Link](https://eldesconcierto.cl/2022/08/21/promesas-rotas-cooperacion-estrategia-y-dilemas-de-la-derecha))
+-   “¿Promesas rotas? Cooperación, estrategia y dilemas de la derecha”. 2022. El Desconcierto (with Gastón Alvear) ([Link](https://eldesconcierto.cl/2022/08/21/promesas-rotas-cooperacion-estrategia-y-dilemas-de-la-derecha))
