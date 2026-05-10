@@ -8,7 +8,7 @@ about:
   image-width: 17em
   links:
     - text: Google Scholar
-      href: https://scholar.google.com/citations?hl=en&user=Ndoxum4AAAAJ
+      href: https://scholar.google.com/citations?user=2SfvJ2kAAAAJ&hl=en
     - text: CU Boulder website
       href: https://www.colorado.edu/polisci/people/graduate-students/gustavo-perez
     - text: ORCID
@@ -17,9 +17,9 @@ about:
 
 Hi! I am a PhD candidate in Political Science at the University of Colorado Boulder. I am also a graduate student associate in the Program on International Development at CU Boulder's Institute of Behavioral Science.
 
-My main research interests are comparative political institutions, political economy, democracy, and methodology. My research examines how economic and political dynamics shape democratic systems with a regional emphasis on Latin America. It develops novel explanations for why some democracies endure while others falter, integrating structural and behavioral perspectives to examine democratic representation and resilience using a multi-method approach and original evidence.
+My main research interests are political institutions, political economy, democracy, political behavior and methodology. My research examines how economic and political dynamics shape democratic systems with a regional emphasis on Latin America. It develops novel explanations for why some democracies endure while others falter, integrating structural and behavioral perspectives to examine democratic representation and resilience using a multi-method approach and original evidence.
 
-My primary teaching interests include comparative political institutions, political economy, methodology, and Latin American politics.
+My primary teaching interests include comparative politics, political economy, methodology, and Latin American politics.
 
 I also hold a master's degree in Comparative Politics from the Latin American Faculty of Social Sciences (Ecuador) and a bachelor's degree in Economics from the Pontifical Catholic University of Ecuador.
 

@@ -21,17 +21,19 @@ format: html
 
 -   Democracy Measures and Democratic Backsliding: Latin America in Comparative Perspective. [Paper](https://github.com/Gustavo-Perez-Arrobo/gustavo-perez-arrobo.github.io/blob/main/files/Democracy%20and%20Backsliding%20in%20LA.pdf?raw=true)
 
-**Work in Progress:**
-
 -   Compatible or at Odds? Protesters’ Attitudes Toward the Political System in Latin America (with Carew Boulding and V. Ximena Velasco-Guachalla).
 
--   Mixed-Method application with panel data: the selection of cases.
+**Work in Progress:**
+
+- Linking Anti-Indigenous Hostility and Environmental Risk Perceptions in Ecuador (with Carew Boulding, Raymond Foxworth, and Marija Verner).
+
+-   Corruption and Rulers’ Approval: a worldwide approach (with Santiago Basabe-Serrano).
 
 -   Economic Shocks and Respect for Political Institutions in Latin America: An Explanation from Protester’s Behavior.
 
 -   Replacements and Amendments: a Constitutional Change Comparison in Latin America.
 
--   Corruption and Rulers’ Approval: a worldwide approach (with Santiago Basabe-Serrano).
+-   Mixed-Method application with panel data: the selection of cases.
 
 **Articles in Press:**
 
